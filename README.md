@@ -1,4 +1,4 @@
-# Hi, I'm G-Den! 👋
+# Hi, I'm G-Den👋
 
 Building products with early-stage founders — fast, intentional, and focused on what drives revenue.
 
