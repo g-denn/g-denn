@@ -1,6 +1,6 @@
-# G-Den 👋
+# Hi, I'm G-Den 👋
 
-Building products for early-stage founders — fast, functional, and focused on what ships.
+Building products with early-stage founders — fast, intentional, and focused on what drives revenue.
 
 Web developer and AI-native builder. I design clean interfaces, automate workflows with Python, and integrate foundational models into products across the full stack. I also think deeply about product — generating ideas, stress-testing them, cutting scope ruthlessly, and shipping fast. If you're an early-stage founder trying to get an MVP out the door and iterate quickly, that's exactly where I want to be.
 
@@ -13,7 +13,7 @@ Web developer and AI-native builder. I design clean interfaces, automate workflo
 - **Product Ideation & MVP Scoping** — generating and pruning ideas, defining what to build, cutting scope, shipping at low cost
 - **Backend & Payments** — Supabase (auth, database, storage) and Stripe payment integration
 
-## 🚀 Projects
+## 📌 Projects
 
 - **[worldcup_predictiongame](https://github.com/g-denn/worldcup_predictiongame)** — Interactive FIFA World Cup 2026 prediction game (React + Vite)
 - **[investmentlearning](https://github.com/g-denn/investmentlearning)** — Browse historical value investing theses & track post-publication performance
