@@ -17,6 +17,8 @@ Web developer and AI-native builder. I design clean interfaces, automate workflo
 
 - **[worldcup_predictiongame](https://github.com/g-denn/worldcup_predictiongame)** — Interactive FIFA World Cup 2026 prediction game (React + Vite)
 - **[investmentlearning](https://github.com/g-denn/investmentlearning)** — Browse historical value investing theses & track post-publication performance
+- **[Smart Alerts for Value Investors](https://smart-alerts-value-investors.vercel.app/)** — Scan stock tickers for value-investing signals & save research candidates to a conviction queue
+- **[Earnings Call One](https://earnings-call-one.vercel.app/)** — Search complete earnings-call transcripts & read company claims in their original context
 - **[ai_studio](https://github.com/g-denn/ai_studio)** — AI Studio built in TypeScript
 - **[Token-Swapping](https://github.com/g-denn/Token-Swapping)** — Real estate tokenization landing page (React.js + Tailwind CSS)
 - **[couple-quests-theone-](https://github.com/g-denn/couple-quests-theone-)** — Relationship OS: full-auth app for managing relationship habits and rituals
