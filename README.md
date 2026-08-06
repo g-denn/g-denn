@@ -15,6 +15,7 @@ Web developer and AI-native builder. I design clean interfaces, automate workflo
 
 ## 📌 Projects
 
+- **[Private, secure, collaborative AI for organisations](https://vercel-pandabear.vercel.app/)** — Help teams move work forward with governed AI while keeping sensitive company data private
 - **[worldcup_predictiongame](https://github.com/g-denn/worldcup_predictiongame)** — Interactive FIFA World Cup 2026 prediction game (React + Vite)
 - **[investmentlearning](https://github.com/g-denn/investmentlearning)** — Browse historical value investing theses & track post-publication performance
 - **[Smart Alerts for Value Investors](https://smart-alerts-value-investors.vercel.app/)** — Scan stock tickers for value-investing signals & save research candidates to a conviction queue
