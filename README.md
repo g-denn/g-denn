@@ -1,4 +1,4 @@
-# Hi, I'm G-Den👋
+# Hi, I'm G-Den👋 <img src="assets/penguin-hello-once.gif" alt="Baby penguin waving hello" width="32" height="32">
 
 Building products with early-stage founders — fast, intentional, and focused on what drives revenue.
 
